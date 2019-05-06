@@ -1,4 +1,4 @@
-# Wheather-Forecast-SPA
+# Weather-Forecast-SPA
 
 ## Single Page App built with AngularJS
 
